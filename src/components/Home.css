@@ -1,0 +1,30 @@
+body{
+
+    background-image: url('https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-346529.jpg&fm=jpg');
+   
+    background-size: cover;
+}
+
+.TableRow{
+    background-color: antiquewhite;
+    color: aliceblue;
+    width: 100px;
+    text-align: center;
+    align-items: center;
+
+}
+.TableHead{
+    color: blue;
+    background-color: aqua;
+    width: 50px;
+    text-align: center;
+    align-items: center;
+}
+
+.Tablecell{
+    text-align: center;
+    align-items: center;
+    width: 100px;
+    color: azure;
+    border: 1px solid #5759b900(255,257,245);
+}
